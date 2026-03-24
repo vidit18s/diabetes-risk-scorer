@@ -1,0 +1,5 @@
+BMI_Category,total,diabetic,diabetes_rate_pct,avg_glucose,avg_age
+Obese,483,221,45.8,126.2,33.7
+Overweight,179,40,22.3,117.0,32.9
+Normal,102,7,6.9,109.1,31.9
+Underweight,4,0,0.0,95.3,24.0

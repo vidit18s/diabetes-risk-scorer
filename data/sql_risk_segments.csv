@@ -1,0 +1,11 @@
+Age_Group,BMI_Category,total,diabetic,diabetes_rate_pct,avg_glucose
+Senior,Obese,57,37,64.9,137.2
+Middle,Obese,168,100,59.5,130.1
+Senior,Overweight,18,10,55.6,131.4
+Elderly,Obese,12,6,50.0,141.8
+Middle,Overweight,47,18,38.3,119.8
+Young,Obese,246,78,31.7,120.3
+Senior,Normal,16,4,25.0,127.8
+Middle,Normal,18,2,11.1,114.6
+Young,Overweight,102,11,10.8,110.7
+Elderly,Overweight,12,1,8.3,137.8
