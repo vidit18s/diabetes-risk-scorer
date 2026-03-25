@@ -50,12 +50,10 @@ diabetes-risk-scorer/
 │   ├── confusion_matrix.png          # Model evaluation
 │   └── dashboard_screenshot.png     # App screenshot
 │
-├── notebooks/
-│   ├── 01_exploration.ipynb          # EDA and visualisations
+├── ├── 01_exploration.ipynb          # EDA and visualisations
 │   ├── 02_preprocessing.ipynb        # Cleaning and feature engineering
 │   ├── 03_model.ipynb                # Model training and evaluation
 │   └── 04_shap.ipynb                 # SHAP explainability
-│
 ├── app.py                            # Streamlit dashboard
 ├── 06_sql_analysis.py                # SQL analytics layer
 ├── requirements.txt                  # Dependencies
