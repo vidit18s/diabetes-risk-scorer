@@ -117,17 +117,3 @@ medical device and must not be used for clinical decisions.
 ```
 
 ---
-
-### Step 2 — Create requirements.txt
-
-Create `requirements.txt` in your main folder:
-```
-pandas
-numpy
-scikit-learn
-xgboost
-shap
-streamlit
-matplotlib
-seaborn
-jupyter
