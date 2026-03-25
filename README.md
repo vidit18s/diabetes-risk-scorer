@@ -22,7 +22,7 @@ interactive Streamlit dashboard.
 - **Glucose** is the strongest predictor of diabetes risk (confirmed by both 
   correlation analysis and SHAP values)
 - Patients in the **diabetic glucose range (>125 mg/dL)** have a diabetes 
-  rate of X% ← fill in your number
+  rate of 64%
 - The highest risk patient segment is **Senior + Obese** with a 64.9% 
   diabetes rate
 - **Middle-aged obese** patients are the largest high-risk group 
