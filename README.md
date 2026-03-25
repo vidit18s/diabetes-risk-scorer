@@ -103,6 +103,13 @@ streamlit run app.py
 
 ---
 
+## 📈 Model Performance
+
+![Confusion Matrix](charts/confusion_matrix.png)
+![SHAP Summary](charts/shap_summary.png)
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is for educational and portfolio purposes only. It is not a 
