@@ -10,7 +10,7 @@ interactive Streamlit dashboard.
 
 | Metric | Value |
 |---|---|
-| ROC-AUC Score | 0.823 ← replace with your actual score |
+| ROC-AUC Score | 0.823 |
 | Model | XGBoost Classifier |
 | Dataset | Pima Indians Diabetes (768 patients) |
 | Features used | 8 clinical features |
